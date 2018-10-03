@@ -1,0 +1,26 @@
+#trial-banner {
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid white;
+    left: 0;
+    right: 0;
+    height: 36px;
+    display: block;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 20px
+}
+
+@font-face {
+    font-family: "Redacted Script";
+    src: url('redacted-script-bold.woff2') format('woff2'), url('redacted-script-bold.woff') format('woff');
+    font-weight: 700
+}
+
+@font-face {
+    font-family: "EB Garamond";
+    src: url('EBGaramond-Regular.woff2') format('woff2'), url('EBGaramond-Regular.woff') format('woff');
+    font-weight: 400
+}
+
+
